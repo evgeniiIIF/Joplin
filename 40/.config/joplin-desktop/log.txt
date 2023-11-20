@@ -1196,3 +1196,7 @@
 2023-11-20 19:03:28: "Running background sync on timer..."
 2023-11-20 19:03:28: "Preparing scheduled sync"
 2023-11-20 19:03:28: "Sync cancelled - no sync target is selected."
+2023-11-20 19:04:30: "SearchEngine: Updating FTS table..."
+2023-11-20 19:04:30: "SearchEngine: Updated FTS table in 239ms. Inserted: 1. Deleted: 0"
+2023-11-20 19:04:35: "Preparing scheduled sync"
+2023-11-20 19:04:35: "Sync cancelled - no sync target is selected."
