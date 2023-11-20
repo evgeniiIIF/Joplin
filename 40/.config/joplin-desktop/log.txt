@@ -1193,3 +1193,6 @@
 2023-11-20 18:58:28: "Sync cancelled - no sync target is selected."
 2023-11-20 18:58:28: RevisionService: "collectRevisions: Created revisions for 0 notes"
 2023-11-20 18:58:28: RevisionService: "maintenance: Done in 105ms"
+2023-11-20 19:03:28: "Running background sync on timer..."
+2023-11-20 19:03:28: "Preparing scheduled sync"
+2023-11-20 19:03:28: "Sync cancelled - no sync target is selected."
