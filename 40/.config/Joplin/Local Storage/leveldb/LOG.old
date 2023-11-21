@@ -1,3 +1,3 @@
-2023/11/20-09:29:15.760 1e23 Reusing MANIFEST /home/jon/snap/joplin-desktop/40/.config/Joplin/Local Storage/leveldb/MANIFEST-000001
-2023/11/20-09:29:15.836 1e23 Recovering log #3
-2023/11/20-09:29:15.836 1e23 Reusing old log /home/jon/snap/joplin-desktop/40/.config/Joplin/Local Storage/leveldb/000003.log 
+2023/11/20-18:48:19.029 a7fa Reusing MANIFEST /home/jon/snap/joplin-desktop/40/.config/Joplin/Local Storage/leveldb/MANIFEST-000001
+2023/11/20-18:48:19.043 a7fa Recovering log #3
+2023/11/20-18:48:19.070 a7fa Reusing old log /home/jon/snap/joplin-desktop/40/.config/Joplin/Local Storage/leveldb/000003.log 
