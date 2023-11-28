@@ -30,6 +30,6 @@
 		],
 		"visible": true
 	},
-	"editor.codeView": false,
+	"editor.codeView": true,
 	"richTextBannerDismissed": true
 }
