@@ -15,12 +15,12 @@
 		"children": [
 			{
 				"key": "sideBar",
-				"width": 295,
+				"width": 135,
 				"visible": true
 			},
 			{
 				"key": "noteList",
-				"width": 250,
+				"width": 150,
 				"visible": true
 			},
 			{
